@@ -1,5 +1,5 @@
 {
-  "name": "g7-rest-api",
+  "name": "g7-cloudflare-rest-api",
   "version": "0.0.1",
   "description": "G7 rest api using cloudflare workers",
   "main": "index.js",
